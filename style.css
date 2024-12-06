@@ -1,0 +1,353 @@
+body{
+    font-family: "Urbanist", serif;
+    font-optical-sizing: auto;
+    font-weight:700;
+    font-style: normal;
+    font-family: "Urbanist", serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style: normal;
+    font-family: "Urbanist", serif;
+    font-optical-sizing: auto;
+    font-weight:300;
+    font-style: normal;
+}
+
+.page1-img{
+    height: 80vh;
+    width: 100%;
+    margin: auto;
+    background-image: url(WhatsApp\ Image\ 2024-11-21\ at\ 10.58.19.jpeg);
+    background-size: cover;
+}
+
+.page1-up-txt{
+    color: white;
+    padding-top: 1rem;
+    padding-left: 4.5rem;
+    
+}
+
+.page1-low-txt>button{
+    height:3rem;
+    width:12rem;
+    border-radius:1.5rem;
+    color: white;
+    background-color: #3a23d4;
+    border: none;
+    font-size: 1rem;
+}
+
+.page1-up-txt>h1{
+    font-size: 5rem;
+
+}
+
+.page1-low-txt{
+    margin-top: 7rem;
+    margin-left: 5rem;
+    font-size: 1.5rem;
+
+    color: white;
+}
+.page2{
+    width: 100%;
+    height: 80vh;
+    display: flex
+}
+
+.page2-left{
+    width: 50%;
+    background-color: white;
+    margin-left: 1rem;
+    margin-top: 2rem;
+
+}
+
+.page2-left>h3{
+    margin-left: 2.5rem;
+}
+
+.page2-left>ul{
+    list-style-type: none;
+}
+
+.page2-right{
+    width: 50%;
+    background-size: cover;
+    background-image: url(WhatsApp\ Image\ 2024-11-21\ .jpeg);
+}
+
+.page2-right-txt{
+    align-items: center;
+    text-align: center;
+    padding-top:12rem ;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.page2-right-txt>button{
+    height:3rem;
+    width:20rem;
+    border-radius:1.5rem;
+    color: white;
+    background-color: #3a23d4;
+    border: none;
+    font-size: 1rem;
+}
+
+.page3{
+    background-color: black;
+    color: white;
+    height: 80vh;
+    width: 100%;
+}
+.line{
+    height: 3px;
+    width: 95%;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.page3-txt{
+    margin-left: 2rem;
+    letter-spacing: 1px;
+
+}
+
+.page3-txt>h1{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 3rem;
+
+}
+
+.page4{
+    background-color: black;
+    height: 95vh;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.page4>h1{
+    padding-top: 2rem;
+}
+.page4-img-container{
+    width: 100%;
+    height: 80%;
+    margin-top: 4rem;
+    display: flex;
+}
+.pag4-img2{
+    height: 99%;
+    width: 33.33%;
+    background-image: url(page41.png);
+    margin-left: 0rem;
+    background-size: cover;
+}
+
+.pag4-img1{
+    height: 99%;
+    width: 33.33%;
+    background-image: url(page42.png);
+    background-size: cover
+}
+
+.pag4-img3{
+    height: 99%;
+    width: 33.33%;
+    background-image: url(page43.png);
+    background-size: cover;
+}
+.page5{
+    height: 80vh;
+    width: 100%;
+    background-color: white;
+}
+
+.page6{
+    height: 80vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+.page6-left{
+    width: 51%;
+    background-image:url(page6.png);
+    background-size: cover;
+}
+
+.page6-right{
+    width: 50%;
+    color: white;
+    letter-spacing: 1px;
+    /* padding-top: 4rem;
+    padding-left: 6rem; */
+}
+
+.page6-right-txt{
+    margin-left: 5rem;
+    margin-top: 5rem;
+    line-height: 1.5rem;
+}
+.page6-right-txt>button{
+    height:2.5rem;
+    width:8rem;
+    border-radius:1.5rem;
+    color: white;
+    background-color: #3a23d4;
+    border: none;
+}
+
+.page6-right-txt>h1{
+    font-size: 3rem;
+}
+
+.page7{
+    height: 80vh;
+    width: 100%;
+    text-align: center;
+}
+.page7-blnk{
+    height: 50%;
+    width: 65%;
+    border-radius: 3rem;
+    background-color:lightgray;
+    margin: auto;
+    margin-top: 2rem;
+}
+.page7>h1{
+    font-size: 3rem;
+}
+
+.page8{
+    height: 90vh;
+    width: 100%;
+}
+
+.page8-part1{
+    width: 100%;
+    height: 20%;
+    background-image: url(Screenshot\ 2024-11-21\ at\ 7.44.48\ PM.png);
+    background-size: cover;
+}
+.page8-part2{
+    height: 80%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 1.25rem;
+    text-align: center;
+}
+.page8-part-container{
+    display: flex;
+    height: 43%;
+    width: 90%;
+    margin: auto;
+}
+
+.page8-part2-img1{
+    height: 100%;
+    width: 18%;
+    margin: auto;
+    background-image: url(page81.png);
+    background-size: cover;
+}
+
+.page8-part2-img2{
+    height: 100%;
+    width: 18%;
+    margin: auto;
+    background-image: url(page82.png);
+    background-size: cover;
+}
+
+.page8-part2-img3{
+    height: 100%;
+    width: 18%;
+    margin: auto;
+    background-image: url(page83.png);
+    background-size: cover;
+}
+
+.page8-part2-img4{
+    height: 100%;
+    width: 18%;
+    margin: auto;
+    background-image: url(page84.png);
+    background-size: cover;
+}
+
+.page8-part2-img5{
+    height: 100%;
+    width: 18%;
+    margin: auto;
+    background-image: url(page85.png);
+    background-size: cover;
+}
+.page91{
+    height: 80%;
+    width: 100%;
+    display: flex;
+}
+.page9{
+    height: 80vh;
+    width: 100%;
+}
+
+.page9-part1{
+    height: 100%;
+    width: 25%;
+
+}
+
+.page9-part2{
+    height: 100%;
+    width: 25%;
+
+}
+
+.page9-part3{
+    height: 100%;
+    width: 25%;
+
+}
+
+.page9-part4{
+    height: 100%;
+    width: 25%;
+}
+
+.page9>p{
+    font-weight: 400;
+}
+
+.page92{
+    height: 20%;
+    width: 100%;
+}
+
+.page92-container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.page92-part1{
+    margin: auto;
+
+}
+
+.page92-part2{
+    margin: auto;
+}
+
+.page92-part3{
+    margin: auto;
+    margin-left: 2rem;
+}
+.page92-part3>i{
+    padding: 1rem;
+    font-size: 1.5rem;
+}
